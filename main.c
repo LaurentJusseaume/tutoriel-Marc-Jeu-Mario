@@ -6,6 +6,7 @@
 #include "jeu.h"
 #include "editeur.h"
 
+/* Fonction qui redessine l'ecran */
 static void redessiner(SDL_Surface* ecran){
 	SDL_Rect position;
 
